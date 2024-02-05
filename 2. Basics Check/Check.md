@@ -1,7 +1,12 @@
 # Basics Check
 
-In `Check.java`, there is some code that fills a `double` array with random values between `0.0` and `100.0` (including `0.0`, not including `100.0`). Use algorithms to print out the average, minimum, maximum, and mode of the array.
-
-Then, use algorithms to determine and print out the number of values that are above `50.0`.
+In `Check.java`, do the following:
+- Create an `ArrayList` that stores `String` objects.
+- Add your name as an element of the list.
+- Add Mr. G's name at the first index in the list (index 0).
+- Print out your name from the list (using its index).
+- Add your friend's name to the list.
+- Change your friend's name in the list to another friend's name.
+- Remove Mr. G's name from the list.
 
 Once you have gotten to just warnings, save the Java file and commit and push your changes via GitHub Desktop.
